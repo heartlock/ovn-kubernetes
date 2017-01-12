@@ -30,5 +30,7 @@ func main() {
 
 	_, gatewaynet, _ := net.ParseCIDR(gateway)
 	fmt.Println(gatewaynet.String())
+	out := "luke"
+	fmt.Println("%v", out)
 
 }

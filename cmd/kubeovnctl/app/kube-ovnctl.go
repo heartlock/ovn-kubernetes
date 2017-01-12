@@ -17,7 +17,7 @@ limitations under the License.
 package app
 
 import (
-	"github.com/heartlock/ovn-kubernetes/pkg/cmd"
+	"github.com/heartlock/ovn-kubernetes/pkg/kubeovnctl/cmd"
 	"github.com/spf13/cobra"
 )
 

@@ -20,7 +20,7 @@ import (
 	"os"
 	"runtime"
 
-	"k8s.io/kubernetes/cmd/kubeovnctl/app"
+	"github.com/heartlock/ovn-kubernetes/cmd/kubeovnctl/app"
 )
 
 func main() {
